@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[happy work]]></title>
+    <url>%2F2017%2F09%2F21%2Fwork%2F</url>
+    <content type="text"><![CDATA[Happy Working 工作是什么工作的作用不仅仅是为了养家糊口 ，更重要的是实现自身的价值，价值的体现在一下方面 工资薪水 无论是否 这个都很重要 成长的快了 活到老 学到老也就是这个意思 朋友、知己、、人总的有点事情做才可以 工作也有很多不尽人意的地方 不自由 想去玩，，没时间 钱太少 %% 人不能一直都去玩吧。。也需要钱啊。。 快乐的工作选择选择是门技术活 选择有时候比努力更重要 当然选择自己需要的工作了。 没得选那就好好让自己喜欢上他，， 与其做的不开心，，还不如调整下 开心的去做。 题外话另外，说下题外话，，hexo 试用了一下，，很好。markdown 语法也很强大，，就是 linux环境比较尴尬，， 为什么要用 linux呢，，，机器太卡了。。。你很难想想，，这个是在centos下 搭建的，，正在使用 vi编辑呢。。 链接 关于我 关于hexo markdown]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[markdown]]></title>
+    <url>%2F2017%2F09%2F21%2Fmarkdown%2F</url>
+    <content type="text"><![CDATA[Markdown 使用介绍. copy from net MaHua是什么?一个在线编辑markdown文档的编辑器 向Mac下优秀的markdown编辑器mou致敬 MaHua有哪些功能？ 方便的导入导出功能 直接把一个markdown的文本文件拖放到当前这个页面就可以了 导出为一个html格式的文件，样式一点也不会丢失 编辑和预览同步滚动，所见即所得（右上角设置） VIM快捷键支持，方便vim党们快速的操作 （右上角设置） 强大的自定义CSS功能，方便定制自己的展示 有数量也有质量的主题,编辑器和预览区域 完美兼容Github的markdown语法 预览区域代码高亮 所有选项自动记忆 有问题反馈在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流 邮件(dev.hubo#gmail.com, 把#换成@) QQ: 287759234 weibo: @草依山 twitter: @ihubo 捐助开发者在兴趣的驱动下,写一个免费的东西，有欣喜，也还有汗水，希望你喜欢我的作品，同时也能支持一下。当然，有钱捧个钱场（右上角的爱心标志，支持支付宝和PayPal捐助），没钱捧个人场，谢谢各位。 感激感谢以下的项目,排名不分先后 mou ace jquery 关于作者1234var ihubo = &#123; nickName : "草依山", site : "http://jser.me"&#125;]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[hello]]></title>
+    <url>%2F2017%2F09%2F21%2Fhello%2F</url>
+    <content type="text"><![CDATA[main page . use markdown see more.使用markdown 来写blog。。。]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F09%2F21%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
